@@ -1,0 +1,11 @@
+﻿  tobii_reader.cpp
+C:\Users\salva\source\repos\tobii_reader\tobii_reader\tobii_reader.cpp(69,12): warning C4273: 'GetX': inconsistent dll linkage
+C:\Users\salva\source\repos\tobii_reader\tobii_reader\tobii_reader.h(20,19): message : see previous definition of 'GetX'
+C:\Users\salva\source\repos\tobii_reader\tobii_reader\tobii_reader.cpp(81,12): warning C4273: 'GetY': inconsistent dll linkage
+C:\Users\salva\source\repos\tobii_reader\tobii_reader\tobii_reader.h(21,19): message : see previous definition of 'GetY'
+     Creating library C:\Users\salva\source\repos\tobii_reader\x64\Release\tobii_reader.lib and object C:\Users\salva\source\repos\tobii_reader\x64\Release\tobii_reader.exp
+  Generating code
+  Previous IPDB and IOBJ mismatch, fall back to full compilation.
+  All 5 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  tobii_reader.vcxproj -> C:\Users\salva\source\repos\tobii_reader\x64\Release\tobii_reader.dll

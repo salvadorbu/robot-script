@@ -1,0 +1,8 @@
+﻿  tobii_reader.cpp
+C:\Users\salva\source\repos\tobii_reader\tobii_reader\tobii_reader.cpp(55,35): warning C4312: 'type cast': conversion from 'DWORD' to 'DWORD *' of greater size
+C:\Users\salva\source\repos\tobii_reader\tobii_reader\tobii_reader.cpp(61,12): warning C4273: 'GetX': inconsistent dll linkage
+C:\Users\salva\source\repos\tobii_reader\tobii_reader\tobii_reader.h(21,19): message : see previous definition of 'GetX'
+C:\Users\salva\source\repos\tobii_reader\tobii_reader\tobii_reader.cpp(81,12): warning C4273: 'GetY': inconsistent dll linkage
+C:\Users\salva\source\repos\tobii_reader\tobii_reader\tobii_reader.h(22,19): message : see previous definition of 'GetY'
+     Creating library C:\Users\salva\source\repos\tobii_reader\x64\Debug\tobii_reader.lib and object C:\Users\salva\source\repos\tobii_reader\x64\Debug\tobii_reader.exp
+  tobii_reader.vcxproj -> C:\Users\salva\source\repos\tobii_reader\x64\Debug\tobii_reader.dll
