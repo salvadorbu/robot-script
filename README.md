@@ -1,4 +1,14 @@
 # robot-script
+Run python script:
+
+```batch
+python main.py
+```
+Select "enter" while looking at your cursor to calibrate eyetracker.
+
+To select HTML element, close your eyes for half a second
+
+-------------------------------------------------------------------------------------
 
 Ejecutar python script:
 
